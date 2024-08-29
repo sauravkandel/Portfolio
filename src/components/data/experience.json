@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "role": "Software Development Engineer",
+    "organisation": "Google",
+    "startDate": "Sept, 2023 ",
+    "endDate": "Present ",
+    "location": "CA,United State",
+    "experiences": [
+      "Worked on Google Gmail",
+      "Worked with the Google Bard Team"
+    ],
+    "imageSrc": "company/google.png"
+  },
+  {
+    "id": 2,
+    "role": "Marketing Coordinator",
+    "organisation": "New Business Age",
+    "startDate": "Aug, 2021 ",
+    "endDate": "July, 2023 ",
+    "location": "Thapathali, Kathmandu",
+    "experiences": [
+      "Plan and organize events and other relevant activities",
+      "Maintain regular contact to major advertisers, agencies and agents to understand customer needs, requirements and complaints for regular flow of advertisement"
+    ],
+    "imageSrc": "company/microsoft.png"
+  },
+  {
+    "id": 3,
+    "role": "React Developer - Intern",
+    "organisation": "Amnil Tech",
+    "startDate": "Feb, 2023 ",
+    "endDate": "June, 2022 ",
+    "location": "Kathmandu, Nepal",
+    "experiences": [
+   "Worked on Cv Manager",
+   "Worked on Learning html, css, javascript & react"
+    ],
+    "imageSrc": "company/netflix.png"
+  }
+]
